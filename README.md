@@ -1,2 +1,4 @@
-# This is my first vagrant project
-expect more contents
+
+# This file is mandatory in projects
+
+> ffadf76 (my first commit)
